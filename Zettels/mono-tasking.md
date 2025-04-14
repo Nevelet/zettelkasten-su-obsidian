@@ -1,0 +1,2 @@
+
+Il mono-tasking è un concetto per fare una sola cosa alla volta. Quindi, boccia il fare più cose contemporaneamente, ovvero fare [[multitasking]]. Un ottimo strumento per fare [[mono-tasking]] è il [[Time blocking]]

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b03fe763b0a90e1c","x":-800,"y":-190,"width":400,"height":260,"type":"file","file":"Zettels/Cos'è il Time Blocking.md"},
+		{"id":"e4f6cce219040f6b","x":0,"y":-320,"width":400,"height":320,"type":"file","file":"Zettels/mono-tasking.md"},
+		{"id":"bf1e15566993aaea","x":0,"y":160,"width":400,"height":280,"type":"file","file":"Zettels/come ridurre lo stress e il burnout.md"},
+		{"id":"84f3d3fd53f7ae46","x":720,"y":-210,"width":400,"height":280,"type":"file","file":"Zettels/I benefici del time blocking.md"}
+	],
+	"edges":[
+		{"id":"b2c2591d35907d48","fromNode":"b03fe763b0a90e1c","fromSide":"right","toNode":"e4f6cce219040f6b","toSide":"left"},
+		{"id":"cc21a5334f328579","fromNode":"e4f6cce219040f6b","fromSide":"right","toNode":"84f3d3fd53f7ae46","toSide":"left"},
+		{"id":"5c3324c699af2330","fromNode":"b03fe763b0a90e1c","fromSide":"right","toNode":"bf1e15566993aaea","toSide":"left"}
+	]
+}
